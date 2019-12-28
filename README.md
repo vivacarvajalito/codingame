@@ -1,2 +1,2 @@
-# codingame
-Codingame code history
+# CodinGame
+Un historial de los desarrollos hechos para codingame.
